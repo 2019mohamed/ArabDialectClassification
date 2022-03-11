@@ -7,12 +7,18 @@ codes file contains data collection, preprocessing, vectorizer_reducer, and API 
 
 some_saved_models file contains some of the saved trained models such as PA and MLP...
 
-1- APIs.ipynb : testing api(i.e., flask api) using python-requests.\\
+1- APIs.ipynb : testing api(i.e., flask api) using python-requests.
+
 2- MLP_DL.ipynb : training using MLP and api.
+
 3- SVM_MLP_Boostrap.ipynb : training using SVM and MLP reducer with bootstrapping.
+
 4- SVM_TruncatedSVD.ipynb : training using SVM and truncatedSVD reducer.
+
 5- Transformer_finetune.ipynb : Finetuning BERT model.
+
 6- transformers.ipynb : BERT pretrained model and umap reducer for text embedding representation.
+
 7- PassiveAggressive_MLP_Online_fair.ipynb : training PA and MLP reducer.
 
 For more details in slides.
