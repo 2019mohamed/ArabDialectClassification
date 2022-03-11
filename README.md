@@ -19,7 +19,7 @@ some_saved_models file contains some of the saved trained models such as PA and 
 
 6- transformers.ipynb : BERT pretrained model and umap reducer for text embedding representation.
 
-7- PassiveAggressive_MLP_Online_fair.ipynb : training PA and MLP reducer.
+7- PassiveAggressive_MLP_Online_fair.ipynb : training PA and MLP reducer, and api.
 
 For more details in slides.
 
